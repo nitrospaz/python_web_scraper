@@ -1,4 +1,5 @@
 About - 
+
 	This project was to make a Python script to scrape data from a given URL and store the data in a CSV file. 
 
 	It handles multiple pages, creates a books.csv file, handles errors, and has unit tests.
@@ -9,10 +10,12 @@ About -
 	this works on a standard python installation, no need to run any install commands.
 
 Prerequisites - 
+
 	1. standard python install
 	2. internet connection
 	
 Instructions to run - 
+
 	1. Download the zip with all the files.
 	2. Extract all files.
 	3. Navigate to the folder with the extracted files in the command line.
